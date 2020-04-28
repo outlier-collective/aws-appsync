@@ -1,7 +1,7 @@
 {
   "name": "aws-appsync",
   "version": "3.0.4",
-  "main": "lib/index.js",
+  "main": "src/index.ts",
   "license": "Apache-2.0",
   "description": "AWS Mobile AppSync SDK for JavaScript",
   "author": {
